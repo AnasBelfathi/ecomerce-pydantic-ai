@@ -1,0 +1,25 @@
+(1) - Env variable is a secret variable globally in our project
+- Groq is a LLM provided - Platform that give opensource models which we can use them for free. 
+-> Those LLM toke actions. 
+(2) Web Search -> Tavily, google search. 
+
+
+Mongo DB -> Database to stock products (ordre, users, card) / NoSQL (Not only SQL)
+Is stored the data in form of document: json, bson
+
+(1) Fast retrieval 
+(2) Storing unstructured data
+
+Document is just a json format
+
+anasbelfathi247_db_user
+jbJuSnBsVXWWpVwW
+
+Pydanctic AI : To make ai agent workflows , generative applications
+Python, Validation (take into account the wrong input)
+
+
+
+TODO:
+- N'oublier pas de remplir avec AGI le fichier .gitignore. 
+- 
