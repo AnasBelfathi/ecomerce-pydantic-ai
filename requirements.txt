@@ -15,6 +15,5 @@ logfire[fastapi]
 
 # ai stuff
 nest-asyncio
-pydantic-ai-slim[tavily]
-pydantic-ai
+pydantic-ai[tavily]
 groq
