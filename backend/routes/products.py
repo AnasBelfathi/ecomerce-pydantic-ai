@@ -173,7 +173,7 @@ def bulk_generate_500():
             "category": cat["name"],
             "size": random.sample(sizes_pool, k=random.randint(2, 4)),
             "color": [color],
-            "image": f"https://loremflickr.com/400/500/{keyword}?lock={seed}",
+            "image": f"https://picsum.photos/seed/{seed}/400/500",
             "inStock": True,
             "rating": round(random.uniform(3.5, 5.0), 1),
             "reviews": random.randint(5, 300),
